@@ -41,52 +41,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAst0qnDNG0ApWiW-FGZGgGKbF1oGgkHg0',
-    appId: '1:114031383420:web:a5774e493f19ed3e438af9',
-    messagingSenderId: '114031383420',
-    projectId: 'freelance-f81fc',
-    authDomain: 'freelance-f81fc.firebaseapp.com',
-    databaseURL: 'https://freelance-f81fc-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'freelance-f81fc.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID,
+    messagingSenderId: '',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDEbJ_tTLY9LG5CzRfsB-UZ6H1_fZEhOM0',
-    appId: '1:114031383420:android:7596cbaa1261e55f438af9',
-    messagingSenderId: '114031383420',
-    projectId: 'freelance-f81fc',
-    databaseURL: 'https://freelance-f81fc-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'freelance-f81fc.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBxfFag9tYgoUCnHdfvh92X0Ws4yPnKNlU',
-    appId: '1:114031383420:ios:06624b85dcaa7f05438af9',
-    messagingSenderId: '114031383420',
-    projectId: 'freelance-f81fc',
-    databaseURL: 'https://freelance-f81fc-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'freelance-f81fc.firebasestorage.app',
-    iosBundleId: 'com.example.freelance5',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBxfFag9tYgoUCnHdfvh92X0Ws4yPnKNlU',
-    appId: '1:114031383420:ios:06624b85dcaa7f05438af9',
-    messagingSenderId: '114031383420',
-    projectId: 'freelance-f81fc',
-    databaseURL: 'https://freelance-f81fc-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'freelance-f81fc.firebasestorage.app',
-    iosBundleId: 'com.example.freelance5',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAst0qnDNG0ApWiW-FGZGgGKbF1oGgkHg0',
-    appId: '1:114031383420:web:0ea643b54b3a90ef438af9',
-    messagingSenderId: '114031383420',
-    projectId: 'freelance-f81fc',
-    authDomain: 'freelance-f81fc.firebaseapp.com',
-    databaseURL: 'https://freelance-f81fc-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'freelance-f81fc.firebasestorage.app',
-  );
-
-}
+  
