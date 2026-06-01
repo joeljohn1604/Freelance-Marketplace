@@ -34,6 +34,25 @@ The platform uses Firebase for secure user authentication and real-time database
 - Developed separate workflows for recruiters and job seekers.
 - Designed an intuitive mobile interface for efficient job searching and application management.
 
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/joeljohn1604/Freelance-Marketplace
+```
+
+2. Open the project in Android Studio.
+
+3. Connect the project to Firebase:
+   - Add the `google-services.json` file.
+   - Configure Firebase Authentication.
+   - Configure Firebase Database or Firestore.
+
+4. Sync Gradle dependencies.
+
+5. Run the application on an Android device or emulator.
+
 
 ## Future Enhancements
 
